@@ -5,4 +5,4 @@ To know the weather at different location please enter the location or city name
 and enter the search icon which is beside the input, so you get the temperature,humidity,wind speed, and 
 the image which of above the temperature  will change according to the weather temperature.
 
-Tankyou.
+Thankyou.
